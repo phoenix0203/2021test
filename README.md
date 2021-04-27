@@ -10,3 +10,5 @@ git add . (暫存)
 git commit -m "xxxx" ( 上傳管控)
 git push ( 完成上傳)
 在學校改完檔後回家載回來(第二回) 用git pull
+
+procfile 算是位置吧
